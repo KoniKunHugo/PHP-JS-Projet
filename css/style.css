@@ -53,3 +53,24 @@ footer div.foot-container{
 p{
     margin : 0;
 }
+
+nav{
+    position: sticky!important;
+}
+
+.wrapper{
+    margin: 50px;
+    padding: 20px 20px 20px;
+}
+
+.twitch{
+    width: 30%!important;;
+}
+
+.conf{
+    width:45%!important;
+}
+
+.morpion{
+    width:40%!important;
+}

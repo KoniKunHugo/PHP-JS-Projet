@@ -16,13 +16,16 @@
       <meta name="description" content="Huge project of 2 nobodies on Earth"/>
       <!-- <meta name="icon" href=""/> -->
     </head>
-
-    <body class="amber lighten-4">
-        <nav class="amber">
+   
+    <body class="grey">
+        <nav class="grey darker-1">
           <div class="nav-wrapper">
             <div class="container">
               <a href="#" data-target="slide-out" class="sidenav-trigger btn-floating pulse waves-effect waves-light"><i class="material-icons">menu</i></a>
-              <a href="#" class="brand-logo hide-on-large-only">Accueil</a>
+              <!-- <//?php -->
+              <!-- isset:(user)==1 -->
+              <a href="#" class="brand-logo hide-on-large-only">Bienvenue cher visiteur</a>
+              <!-- ?>-->
               <ul class="hide-on-med-and-down">
                 <li><a href="index.php"><i class="material-icons">home</i></a></li>
                 <div class="center">
@@ -40,7 +43,7 @@
             </div>
           </div>
         </nav>
-          
+    
           <ul id="slide-out" class="sidenav">
             <div class="background grey"></div>
             <li><a class="sidenav-close" href="#!"><i class="material-icons waves-effect waves-dark">close</i>Close</a></li>
@@ -73,16 +76,21 @@
               </a>
             </div>
           </div>
-          <div class="carousel-item purple white-text" href="#one!">
+          <!-- Violet -->
+          <div class="carousel-item grey lighten-1 white-text" href="#one!">
+            <img src="img/morpion.jpg" class="morpion">
             <h2>First project</h2>
             <p class="white-text">This is the first project</p>
           </div>
-          <div class="carousel-item p2 lighten-4 white-text" href="#two!">
+          <!-- Gris -->
+          <div class="carousel-item p2 grey lighten-1 white-text" href="#two!">
+            <img src="img/conferences.webp" class="conf">
             <h2>Second project</h2>
             <p class="white-text">This is the second project</p>
-            <img class="img-carousel responsive-img" >
           </div>
-          <div class="carousel-item grey darken-2 white-text" href="#three!">
+          <!-- Dark -->
+          <div class="carousel-item grey lighten-1 white-text" href="#three!">
+            <img src="img/twitch.webp" class="twitch">
             <h2>Third Project</h2>
             <p class="white-text">This is the third project</p>
           </div>
