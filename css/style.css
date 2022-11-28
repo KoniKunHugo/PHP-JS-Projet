@@ -49,3 +49,7 @@ footer div.foot-container{
   width:90%;
   padding:2rem 0;
 }
+
+p{
+    margin : 0;
+}

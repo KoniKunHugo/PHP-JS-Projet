@@ -84,9 +84,14 @@
         </div>
     </div>
 
+
+  <footer class="grey darken-3">
+    <div class="foot-container white-text">
+      <p>
+        Copyright &copy; Hugo XIA - Tristan BODA - 2022-2023 - All Rights Reserved
+      </p>
     </div>
-
-
+  </footer>
 
     </body>
     <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -95,11 +100,5 @@
     <!-- Script at the end need query + materialize-->
     <script type="text/javascript" src="js/script.js"></script>
 </body>
-<footer class="grey darken-3">
-  <div class="foot-container white-text">
-    <p>
-      Copyright &copy; Hugo XIA - Tristan BODA - 2022-2023 - All Rights Reserved
-    </p>
-  </div>
-</footer>
+
 </html>
