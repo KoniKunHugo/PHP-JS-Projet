@@ -16,11 +16,11 @@
               <a href="#" data-target="slide-out" class="sidenav-trigger btn-floating pulse"><i class="material-icons">menu</i></a>
               <a href="#" class="brand-logo hide-on-large-only">Accueil</a>
               <ul class="hide-on-med-and-down">
-                <li><a href="index.html"><i class="material-icons">home</i></a></li>
+                <li><a href="index.php"><i class="material-icons">home</i></a></li>
                 <div class="center">
-                  <li><a class="waves-effect" href="project-1.html">Projet 1</a></li>
-                  <li><a class="waves-effect" href="project-2.html">Projet 2</a></li>
-                  <li><a class="waves-effect" href="project-3.html">Projet 3</a></li>
+                  <li><a class="waves-effect" href="project-1.php">Projet 1</a></li>
+                  <li><a class="waves-effect" href="project-2.php">Projet 2</a></li>
+                  <li><a class="waves-effect" href="project-3.php">Projet 3</a></li>
                   <li class="row">
                     <input id="myText" class="black-text col l10" placeholder="Let a message">
                     <div class="col l1">
@@ -36,11 +36,11 @@
           <ul id="slide-out" class="sidenav">
             <div class="background grey"></div>
             <li><a class="sidenav-close" href="#!"><i class="material-icons">menu</i>Close</a></li>
-            <li><a href="index.html"><i class="material-icons">home</i>Lobby</a></li>
+            <li><a href="index.php"><i class="material-icons">home</i>Lobby</a></li>
             <li><a class="subheader">Nos histoires</a></li>
-            <li><a class="waves-effect" href="project-1.html">Projet 1</a></li>
-            <li><a class="waves-effect" href="project-2.html">Projet 2</a></li>
-            <li><a class="waves-effect" href="project-3.html">Projet 3</a></li>
+            <li><a class="waves-effect" href="project-1.php">Projet 1</a></li>
+            <li><a class="waves-effect" href="project-2.php">Projet 2</a></li>
+            <li><a class="waves-effect" href="project-3.php">Projet 3</a></li>
             <li>
               <input id="myText" class=""placeholder="Let a message">
               <i  id="send" onclick="sendMail(); return false" class="btn-flat material-icons">send</i>
