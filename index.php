@@ -98,7 +98,7 @@
              </div>
               <div class="card col s12 m8 offset-s1 z-depth-3">
                <div id=" chad-1" class="card-image img-card waves-effect waves-block waves-light">
-                 <img class="activator" src="https://i.kym-cdn.com/photos/images/facebook/002/301/351/ecc.png">
+                 <img class="activator" src="img/tristan.jpg">
                </div>
                <div class="card-content">
                  <span class="card-title activator grey-text text-darken-4">
