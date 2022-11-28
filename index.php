@@ -98,7 +98,7 @@
              </div>
               <div class="card col s12 m8 offset-s1 z-depth-3">
                <div id=" chad-1" class="card-image img-card waves-effect waves-block waves-light">
-                 <img class="activator" src="img/tristan.jpg">
+                 <img class="activator" src="img/bg.jpg">
                </div>
                <div class="card-content">
                  <span class="card-title activator grey-text text-darken-4">
@@ -114,7 +114,7 @@
              </div>
              <div class="card col s12 m8 offset-s1 z-depth-3">
                <div class="card-image img-card chad-2 waves-effect waves-block waves-light">
-                 <img class="activator" src="https://www.ipnoze.com/wordpress/wp-content/uploads/2020/05/chats-piquer-par-abeilles-guepes-025.jpg">
+                 <img class="activator" src="img/man.png">
                </div>
                <div class="card-content">
                  <span class="card-title activator grey-text text-darken-4">
