@@ -79,14 +79,6 @@
     </div>
 
     </div>
-
-    </body>
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <!--JavaScript at end of body for optimized loading-->
-    <script type="text/javascript" src="js/materialize.min.js"></script>
-    <!-- Script at the end need query + materialize-->
-    <script type="text/javascript" src="js/script.js"></script>
-</body>
   <footer class="grey darken-3">
     <div class="foot-container white-text">
       <p>
@@ -94,4 +86,12 @@
       </p>
     </div>
   </footer>
+    </body>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <!-- Script at the end need query + materialize-->
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+  
 </html>

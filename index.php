@@ -131,15 +131,7 @@
            </div>
            
            <img id="image" onclick="changeimage()" src="img/dollar.png">
-        
-
-      <script type="text/javascript" src="js/jquery.min.js"></script>
-      <!--JavaScript at end of body for optimized loading-->
-      <script type="text/javascript" src="js/materialize.min.js"></script>
-      <!-- Script at the end need query + materialize-->
-      <script type="text/javascript" src="js/script.js"></script>
-    </body>
-    <footer class="grey darken-3">
+      <footer class="grey darken-3">
       <div class="foot-container white-text">
         <p>
           Copyright &copy; Hugo XIA - Tristan BODA - 2022-2023 - All Rights Reserved
@@ -150,4 +142,12 @@
 
       </div>
     </footer>
+
+      <script type="text/javascript" src="js/jquery.min.js"></script>
+      <!--JavaScript at end of body for optimized loading-->
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <!-- Script at the end need query + materialize-->
+      <script type="text/javascript" src="js/script.js"></script>
+    </body>
+    
   </html>
