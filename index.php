@@ -18,7 +18,7 @@
     </head>
    
     <body class="grey">
-        <nav class="grey darker-1">
+        <nav class="grey darken-1">
           <div class="nav-wrapper">
             <div class="container">
               <a href="#" data-target="slide-out" class="sidenav-trigger btn-floating pulse waves-effect waves-light"><i class="material-icons">menu</i></a>

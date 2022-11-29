@@ -45,36 +45,36 @@
         <i  id="send" onclick="sendMail(); return false" class="btn-flat material-icons">send</i></li>
       <li><button class="btn-flat" id="history"></button></li>
     </ul>
-    <h1>Tristan et ses Chads</h1>
+    <h1>Le Morpion</h1>
     <div class="row">
         <div class="col s8">
             <p class="text">
-              Giga Chadum favori
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate velit optio assumenda mollitia sint ratione quisquam voluptatum ut ipsa sit quos itaque incidunt eaque, voluptate dolorem exercitationem at ipsum aut.
             </p>
         </div>
         <div class="col s4 red image center-align">
-            <img class="materialboxed responsive-img" src="https://www.netcost-security.fr/wp-content/uploads/2021/11/1636044306_Lhistoire-de-GigaChad-lultra-masculin-mi-meme-mi-legende-urbaine.jpg" alt="">
+            <img class="materialboxed responsive-img" src="img/morpion.jpg" alt="">
         </div>
     </div>
     
     <div class="row">
         <div class="col s4 blue image center-align">
-            <img class="materialboxed responsive-img" src="https://www.ipnoze.com/wordpress/wp-content/uploads/2020/05/chats-piquer-par-abeilles-guepes-025.jpg" alt="">
+            <img class="materialboxed responsive-img" src="img/morpion.jpg" alt="">
         </div>
         <div class="col s8">
             <p class="text">
-              Son Giga Chat
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto autem rem, possimus fuga quia distinctio impedit necessitatibus quaerat voluptate ad. Et voluptas consectetur vel laboriosam velit atque voluptatibus in? Quas.
             </p>
         </div>
     </div>
     <div class="row">
         <div class="col s8">
             <p class="text">
-              Mastered Ultra Instinct Giga Chad
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit doloribus fuga suscipit similique facilis enim sit, non doloremque magnam maxime dicta, ex voluptatibus explicabo sapiente repellendus earum facere aliquam reprehenderit.
             </p>
         </div>
         <div class="col s4 green image center-align">
-            <img class="materialboxed responsive-img" src="https://i.kym-cdn.com/photos/images/facebook/002/301/351/ecc.png" alt="">
+            <img class="materialboxed responsive-img" src="img/morpion.jpg" alt="">
         </div>
     </div>
 
