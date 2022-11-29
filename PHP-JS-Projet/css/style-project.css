@@ -1,0 +1,18 @@
+.text{
+    background-color: white;
+    color: black;
+    border:solid black;
+}
+
+.image{
+    padding:0px!important;
+}
+#send{
+    color: black;
+    position: absolute;
+    top:31%;
+    right:3% 
+}
+p{
+    margin:0;
+}

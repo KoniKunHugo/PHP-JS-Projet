@@ -1,0 +1,82 @@
+.l-r{
+    bottom:50% !important;
+}
+
+.r-align{
+    position: absolute;
+    right: 0%;
+    top: 50%;
+}
+
+.l-align{
+    position: absolute;
+    left: 0%;
+    top: 50%;
+}
+
+.img-card{
+    margin-top:3%;
+    border-radius: 15px;
+}
+
+/* .carousel{
+    height: 200px!important;
+} */
+
+.card{
+    border-radius: 15px;
+}
+
+#send{
+    color: black;
+    position: absolute;
+    top:304px;
+    right:3% 
+}
+
+
+footer{
+    margin-bottom: 0%;
+    font-size: 20px;
+    background-color: red;
+  }
+
+footer div.foot-container{
+  display: flex;
+  flex-flow: row wrap-reverse;
+  justify-content: space-between;
+  margin:0 auto;
+  width:90%;
+  padding:2rem 0;
+}
+
+p{
+    margin : 0;
+}
+
+nav{
+    position: sticky!important;
+}
+
+.wrapper{
+    margin: 50px;
+    padding: 20px 20px 20px;
+}
+
+.twitch{
+    width: 30%!important;;
+}
+
+.conf{
+    width:45%!important;
+}
+
+.morpion{
+    width:40%!important;
+}
+
+.container-nav {
+    margin: 0;
+    max-width: 1280px;
+    width: 90%;
+  }
